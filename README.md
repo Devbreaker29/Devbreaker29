@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a coder!
+|[Checkout out my code!](https://github.com/Devbreaker29)
+
 <!--
 **Devbreaker29/Devbreaker29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
